@@ -1,6 +1,6 @@
 ---
 title: "S.M Writings"
-image: "herzl.jpg"
+image: "images/logo.png"
 color1: "#202A44"
 color2: "#080E1B"
 angle: 130
