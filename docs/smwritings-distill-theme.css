@@ -59,13 +59,13 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-    font-weight: 700;
-    font-style: normal;
+    font-weight:      700;
+    font-style:       normal;
   --title-size:       20px;
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        18px;
   --hover-color:      white;
-  --bkgd-color:       none;
+  --bkgd-color:       rgba(0, 0, 0, 0.2);
 }
 
 .distill-site-footer {
@@ -78,3 +78,7 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
+/*body {
+  background: rgb(32,42,68);
+  background: linear-gradient(130deg, rgba(32,42,68,1) 0%, rgba(8,14,27,1) 100%); */
+}

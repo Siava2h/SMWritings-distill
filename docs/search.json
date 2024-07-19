@@ -1,12 +1,27 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-07-19T23:24:11+03:30"
+    },
+    {
+      "path": "architecture.html",
+      "title": "Architecture",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-07-19T23:24:11+03:30"
+    },
+    {
       "path": "index.html",
       "title": "S.M Writings",
       "author": [],
-      "contents": "\r\n\r\n          \r\n          \r\n          S.M Writings\r\n          \r\n          \r\n          Home\r\n          About\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            S.M Writings\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            I write here to learn, recall, and answer my own\r\n            questions about life, architecture, music, arts and\r\n            literature, social sciences, engineering, and science.\r\n          \r\n          \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            S.M Writings\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            I write here to learn, recall, and answer my own\r\n            questions about life, architecture, music, arts and\r\n            literature, social sciences, engineering, and science.\r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2024-07-19T15:55:16+03:30"
+      "contents": "\r\n\r\n          \r\n          \r\n          S.M Writings\r\n          \r\n          \r\n          Home\r\n          \r\n          \r\n          Blog\r\n           \r\n          ▾\r\n          \r\n          \r\n          Architecture\r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            S.M Writings\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            I write here to learn, recall, and answer my own\r\n            questions about life, architecture, music, arts and\r\n            literature, social sciences, engineering, and science.\r\n          \r\n          \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            S.M Writings\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            I write here to learn, recall, and answer my own\r\n            questions about life, architecture, music, arts and\r\n            literature, social sciences, engineering, and science.\r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2024-07-19T23:24:25+03:30"
     }
   ],
-  "collections": []
+  "collections": ["architecture/architecture.json"]
 }
